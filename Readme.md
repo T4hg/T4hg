@@ -19,16 +19,22 @@
  
 **✨ Other** 
 
-> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python" width="25" height="25"/>  [██████████████████░░░░░░░] 70%
+> Css
  > 
-> <img src="https://www.akademus.es/blog/wp-content/uploads/2018/07/java.png" alt="JavaScript" width="25" height="25"/>  [███████░░░░░░░░░░░░░░░░░░] 25%
+> Html
  > 
-> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="25" height="25"/>  [██████████████████████░░░] 85%
+> MongoDB
  > 
-> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Java" width="25" height="25"/>  [████░░░░░░░░░░░░░░░░░░░░░] 15%
+> Experienced in Linux
  > 
-> <img src="https://anterior.tectimes.net/wp-content/uploads/2017/08/Azure-SQL-Database-generic_COLOR.png" alt="Java" width="25" height="25"/>  [████████████░░░░░░░░░░░░░] 45%
+> BurpSuite
  > 
+> Sqlmap
+ > 
+> SQL Injection
+ > 
+> Sass
+ >
  
  
 <p align="center">
