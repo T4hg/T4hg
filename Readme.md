@@ -10,7 +10,7 @@
  > 
 > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="25" height="25"/>  [██████████████████████░░░] 85%
  > 
-> 📜 19 Public Repositories 
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="25" height="25"/>  [██████████████████████░░░] 85%
  > 
 > 🔑 15 Private Repositories  
  > 
