@@ -36,12 +36,10 @@
 > Sass
  >
  
- 
+ <br>
+ <br>
+ <p align="center">My social media</p>
 <p align="center">
-  <a href="https://discord.gg/R6maQ4W9fz"><img alt="Discord" title="Mi Servidor" src="https://shields.io/badge/-DISCORD-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://keycuevasmelgarejo.itch.io"><img alt="Unity" title="Game" src="https://shields.io/badge/-Itch.io-black.svg?&style=for-the-badge&logo=unity&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/key-cuevas-melgarejo/"><img alt="LinkedIn" title="Perfil Profesional" src="https://shields.io/badge/-LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://soundcloud.com/key-cuevas-melgarejo"><img alt="Soundcloud" title="Mi Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
-  <a href="https://www.researchgate.net/profile/Key-Cuevas-Melgarejo"><img alt="Researchgate" title="Mis Investigaciones" src="https://shields.io/badge/-Researches-00ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white"></a>
-  <a href="https://ko-fi.com/keycuevasmelgarejo"><img alt="Ko-fi" title="Contribuye" src="https://shields.io/badge/-BUY%20ME%20A%20COFFEE-CC2735.svg?&style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+  <a href="https://discord.gg/N2SZ5YTkCq"><img alt="Discord" title="Mi Servidor" src="https://shields.io/badge/-DISCORD-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.paypal.com/paypalme/t4hg"><img alt="Paypal" title="Donación" src="https://shields.io/badge/-DONATE-CC2735.svg?&style=for-the-badge&logo=paypal&logoColor=white"></a>
 </p>
