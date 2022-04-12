@@ -41,5 +41,5 @@
  <p align="center">My social media</p>
 <p align="center">
   <a href="https://discord.gg/N2SZ5YTkCq"><img alt="Discord" title="Mi Servidor" src="https://shields.io/badge/-DISCORD-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href=""><img alt="Paypal" title="Donación" src="https://shields.io/badge/-DONATE-CC2735.svg?&style=for-the-badge&logo=paypal&logoColor=white"></a>
+  <a href="www.google.es"><img alt="Paypal" title="Donación" src="https://shields.io/badge/-DONATE-CC2735.svg?&style=for-the-badge&logo=paypal&logoColor=white"></a>
 </p>
